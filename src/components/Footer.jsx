@@ -29,7 +29,7 @@ export default function Footer () {
 
         <div className='text-center 2xl:py-3 py-1'>
           <span className='2xl:text-base text-xs text-white font-medium '>
-            Copyright 2023 <Link to='/' className='hover:underline'>Alphinance</Link>. {t('allRights')}
+            © Copyright 2023 <Link to='/' className='hover:underline'>Alphinance</Link>. {t('allRights')}
           </span>
         </div>
       </Container>

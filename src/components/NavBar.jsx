@@ -40,12 +40,12 @@ function NavBar () {
           <SwitchLanguage />
           <SearchBar id='searchDesktop' classes='sm:inline-block hidden' />
 
-          <div className='sm:hidden inline-block z-0'>
+          <div className='sm:hidden inline-block z-10'>
             <button aria-label='Show navbar' className='flex justify-center items-center z-20' onClick={() => setIsOpen(!isOpen)}>
               <i className='pi pi-bars text-[28px] hover:text-ip-purple' />
             </button>
             {isOpen &&
-              <nav className='absolute right-2 top-14 bg-white border boder-ft-gray max-w-[260px] w-full h-52 py-6 -z-10 flex flex-col items-center p-8 justify-between rounded-lg'>
+              <nav className='absolute right-2 top-14 bg-white border boder-ft-gray max-w-[260px] w-full h-52 py-6 flex flex-col items-center p-8 justify-between rounded-lg'>
                 <div className='flex flex-col items-center gap-4'>
                   <NavLink
                     to='/alphinance'

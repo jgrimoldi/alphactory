@@ -10,7 +10,7 @@ export default function UnderConstruction () {
       <Helmet>
         <title>Site Under Construction</title>
       </Helmet>
-      <main className='w-full py-20 h-auto flex flex-col items-center justify-center gap-24 relative -z-20'>
+      <main className='w-full py-20 h-auto flex flex-col items-center justify-center gap-24'>
         <section className='-rotate-6 flex flex-col items-end'>
           <div className='bg-ip-purple py-4 px-10'>
             <h1 className='lg:text-8xl md:text-6xl text-xl  font-bold uppercase text-white'>{t('comingSoon')}</h1>

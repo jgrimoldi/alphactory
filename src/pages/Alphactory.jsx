@@ -22,7 +22,7 @@ export default function Alphactory () {
         <meta name='twitter:description' content='We are a leading digital solutions company in the asset management, capital markets and real-time accounting space.' />
         <meta name='twitter:image' content='/Logo.png' />
       </Helmet>
-      <main className='relative -z-20'>
+      <main>
         <span ref={headerRef} className={`block opacity-0 ${isIntersecting ? 'animate-fade-and-slide' : ''}`}>
           <Header variant='blackText' className='sm:py-[50px] py-4'>
             <h1 className='2xl:text-6xl 2xl:max-w-[1080px] sm:text-5xl text-3xl font-semibold sm:mb-[34px] mb-[20px] max-w-[720px] mx-auto'>{t('alphactory.title')}</h1>

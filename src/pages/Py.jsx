@@ -13,7 +13,7 @@ export default function Py () {
         <meta name='twitter:description' content='' />
         <meta name='twitter:image' content='/Logo.png' />
       </Helmet>
-      <main className='relative -z-20'>
+      <main>
         Py
       </main>
     </>

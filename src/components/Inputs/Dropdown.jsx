@@ -1,9 +1,9 @@
 import { useTranslation } from 'react-i18next';
 
-export function Dropdown ({ options = [], id, title, placeholder, state, variant = 'purpleInput', setState, classes }) {
+export function Dropdown ({ options = [], id, title, placeholder, state, variant = 'purpleInput', setState, classes = '' }) {
   const { t } = useTranslation();
   const variants = {
-    purpleInput: 'focus:ring-ft-purple focus:border-ft-purple text-ft-gray placeholder:text-ft-gray border-ft-gray',
+    purpleInput: 'focus:ring-ft-purple focus:border-ft-purple bg-transparent text-ft-gray placeholder:text-ft-gray border-ft-gray',
     greenInput: 'focus:ring-bg-green focus:border-bg-green bg-ip-light text-ft-muted placeholder:text-ft-muted border-none'
   };
 
@@ -19,7 +19,7 @@ export function Dropdown ({ options = [], id, title, placeholder, state, variant
         value={state}
         onChange={handleChange}
         aria-label={t(title)}
-        className={`bg-transparent border font-normal text-sm rounded-lg block w-full p-[14px] ${variants[variant]}`}
+        className={`border font-normal text-sm rounded-lg block w-full p-[14px] ${variants[variant]}`}
       >
         <option className='text-ft-gray' value='' disabled>{t(placeholder)}</option>
         {options.map((option, index) => (
