@@ -28,7 +28,7 @@ export function FormSection ({ children, variant, title, subtitle }) {
       <Header variant={variants[variant].textColor} className='2xl:w-[420px] 2xl:text-center md:w-[280px] md:text-left  md:!px-0'>
         <h2 className={`2xl:max-w-none md:max-w-[196px] max-w-none font-medium sm:text-5xl text-3xl md:mb-11 mb-6 text-stroke-black drop-shadow-sm ${variants[variant].titleColor}`}>{t(title)}</h2>
         {isArray && children[0]}
-        <h3 className='2xl:max-w-none md:max-w-[258px] max-w-none font-normal text-base'>{t(subtitle)}</h3>
+        <h3 className='2xl:max-w-none md:max-w-[258px] max-w-none font-medium text-base'>{t(subtitle)}</h3>
       </Header>
       {isArray ? children[1] : children}
     </Section>

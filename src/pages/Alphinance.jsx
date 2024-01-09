@@ -32,7 +32,7 @@ export default function Alphinance () {
         <meta name='twitter:image' content='/Logo.png' />
       </Helmet>
       <main className='relative -z-20'>
-        <Container styles='flex lg:flex-row flex-col gap-5 justify-evenly items-center pt-9'>
+        <Container styles='flex lg:flex-row flex-col gap-5 justify-evenly items-center pt-9 lg:mb-5'>
           <div className='lg:w-2/5 w-full flex lg:justify-end justify-center'>
             <Header variant='blackText' className='2xl:!px-0 md:!px-0 !px-0  flex flex-col justify-center sm:items-start sm:gap-12 gap-6  lg:!max-w-[398px] !max-w-[600px] lg:text-left text-center'>
               <div className='text-left'>
@@ -46,9 +46,11 @@ export default function Alphinance () {
               </div>
             </Header>
           </div>
-          <picture className='lg:w-2/5 w-full flex justify-start'>
-            <img src={Dashboard} alt='Our Dashboard' />
-          </picture>
+          <div className='lg:w-2/5 w-full flex lg:justify-start justify-center'>
+            <picture className='relative top-2 lg:absolute '>
+              <img src={Dashboard} alt='Our Dashboard' />
+            </picture>
+          </div>
         </Container>
         <InfoSection variant='gray' title='alphinance.modules' subtitle='alphinance.modulesSubtitle'>
           <div className='w-fit mx-auto mb-8'>

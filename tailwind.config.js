@@ -38,6 +38,7 @@ module.exports = {
         }
       },
       colors: {
+        'ip-light': 'rgb(236,236,236)',
         'ip-gray': 'rgb(242,242,242)',
         'ip-light-gray': 'rgb(215,215,215)',
         'ip-purple': 'rgb(86,81,251)',

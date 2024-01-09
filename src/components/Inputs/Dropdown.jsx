@@ -3,8 +3,8 @@ import { useTranslation } from 'react-i18next';
 export function Dropdown ({ options = [], id, title, placeholder, state, variant = 'purpleInput', setState, classes }) {
   const { t } = useTranslation();
   const variants = {
-    purpleInput: 'focus:ring-ft-purple focus:border-ft-purple',
-    greenInput: 'focus:ring-bg-green focus:border-bg-green '
+    purpleInput: 'focus:ring-ft-purple focus:border-ft-purple text-ft-gray placeholder:text-ft-gray border-ft-gray',
+    greenInput: 'focus:ring-bg-green focus:border-bg-green bg-ip-light text-ft-muted placeholder:text-ft-muted border-none'
   };
 
   const handleChange = (event) => {
@@ -13,13 +13,13 @@ export function Dropdown ({ options = [], id, title, placeholder, state, variant
 
   return (
     <div className={`pb-[14px] ${classes}`}>
-      <label htmlFor={id} className='block pb-[10px] text-sm font-medium text-ft-gray cursor-pointer'>{`${t(title)}*`}</label>
+      <label htmlFor={id} className={`block pb-[10px] text-sm font-medium ${variant === 'purpleInput' ? 'text-ft-gray' : 'text-ft-muted'} cursor-pointer`}>{`${t(title)}*`}</label>
       <select
         id={id}
         value={state}
         onChange={handleChange}
         aria-label={t(title)}
-        className={`bg-transparent border border-ft-gray text-ft-gray placeholder:text-ft-gray font-normal text-sm rounded-lg block w-full p-[14px] ${variants[variant]}`}
+        className={`bg-transparent border font-normal text-sm rounded-lg block w-full p-[14px] ${variants[variant]}`}
       >
         <option className='text-ft-gray' value='' disabled>{t(placeholder)}</option>
         {options.map((option, index) => (

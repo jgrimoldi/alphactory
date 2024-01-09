@@ -15,7 +15,7 @@ if (!storedLanguage || !availableLanguages.includes(storedLanguage)) {
 i18n.use(Backend).use(LanguageDetector).use(initReactI18next).init({
   lng: storedLanguage,
   fallbackLng: 'en',
-  debug: false,
+  debug: true,
   whitelist: availableLanguages,
   interpolation: {
     escapeValue: false
