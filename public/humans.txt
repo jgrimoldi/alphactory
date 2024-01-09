@@ -1,0 +1,14 @@
+/* TEAM */
+Alphactory
+
+/* SITE */
+Last update: 2024/01/10
+Language: English / Español
+Doctype: HTML5
+Standards: HTML5, CSS3, JavaScript
+Software: Visual Studio Code
+
+/* TECHNOLOGY */
+Server-side: Node.js, Express
+Client-side: React, Vite
+CSS: @emotion/styled

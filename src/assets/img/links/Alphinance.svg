@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 116.72 22.28">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath-6);
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-7 {
+        fill: none;
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-9 {
+        clip-path: url(#clippath-5);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-7" width="116.72" height="22.28"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <path class="cls-7" d="m38.35,3.34v7.92c0,2.64,2.14,4.78,4.78,4.78v-1.45c-1.84,0-3.33-1.49-3.33-3.33V3.34h-1.45Z"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <path class="cls-7" d="m45.72,11.25c0-1.84,1.49-3.33,3.33-3.33s3.33,1.49,3.33,3.33-1.49,3.33-3.33,3.33c-1.84,0-3.33-1.49-3.33-3.33m-1.45,0v7.7h1.45v-4.27c1.9,1.83,4.92,1.79,6.75-.11,1.83-1.9,1.79-4.92-.11-6.75s-4.92-1.79-6.75.11c-.86.89-1.35,2.09-1.34,3.33"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <path class="cls-7" d="m28.78,11.25c0-1.84,1.49-3.33,3.33-3.33s3.33,1.49,3.33,3.33-1.49,3.33-3.33,3.33c-1.84,0-3.33-1.49-3.33-3.33m-1.45,0c0,2.64,2.14,4.78,4.78,4.78,1.24,0,2.44-.48,3.33-1.35v1.35h1.45v-4.77c0-2.64-2.14-4.78-4.78-4.78s-4.78,2.14-4.78,4.78"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <path class="cls-7" d="m55.17,3.54v12.48h1.45v-5.26c0-1.57,1.27-2.85,2.85-2.85s2.85,1.27,2.85,2.85l.04,5.26h1.45l-.04-5.26c0-2.37-1.92-4.3-4.29-4.3-1.05,0-2.07.38-2.86,1.09V3.54h-1.45Z"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <rect class="cls-7" width="116.72" height="22.28"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <path class="cls-7" d="m7.05,11.43l.97,1.65h-2.16l1.19-1.65Zm8.17-4.42c0-.6.49-1.09,1.09-1.09s1.09.49,1.09,1.09-.49,1.09-1.09,1.09h0c-.6,0-1.09-.49-1.09-1.09m-1.48,0c0,.74.32,1.45.88,1.94l-3.29,6.84-4.16-7.07-4.44,6.15.78,1.45,1.28-1.77h4.1l2.58,4.38,4.51-9.38c1.41.19,2.7-.8,2.89-2.21.19-1.41-.8-2.7-2.21-2.89-1.41-.19-2.7.8-2.89,2.21-.02.11-.02.23-.02.34"/>
+    </clipPath>
+  </defs>
+  <g id="Diseño">
+    <g id="Grupo_2858" data-name="Grupo 2858">
+      <g id="Grupo_2843-2" data-name="Grupo 2843-2">
+        <g class="cls-6">
+          <g id="Grupo_2842-2" data-name="Grupo 2842-2">
+            <path id="Trazado_1951-2" data-name="Trazado 1951-2" d="m22.28,11.14c0,6.15-4.99,11.14-11.14,11.14C4.99,22.28,0,17.29,0,11.14,0,4.99,4.99,0,11.14,0,17.3,0,22.28,4.99,22.28,11.14h0"/>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_2845-2" data-name="Grupo 2845-2">
+        <g class="cls-4">
+          <g id="Grupo_2844-2" data-name="Grupo 2844-2">
+            <rect id="Rectángulo_2967-2" data-name="Rectángulo 2967-2" x="36.14" y="2.9" width="9.2" height="13.56" transform="translate(-.65 16.01) rotate(-22.06)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_2847-2" data-name="Grupo 2847-2">
+        <g class="cls-2">
+          <g id="Grupo_2846-2" data-name="Grupo 2846-2">
+            <rect id="Rectángulo_2968-2" data-name="Rectángulo 2968-2" x="42.27" y="5.13" width="13.55" height="15.16" transform="translate(-1.18 19.35) rotate(-22.06)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_2849-2" data-name="Grupo 2849-2">
+        <g class="cls-8">
+          <g id="Grupo_2848-2" data-name="Grupo 2848-2">
+            <rect id="Rectángulo_2969-2" data-name="Rectángulo 2969-2" x="25.88" y="5.02" width="12.45" height="12.45" transform="translate(-1.87 12.88) rotate(-22.06)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_2851-2" data-name="Grupo 2851-2">
+        <g class="cls-5">
+          <g id="Grupo_2850-2" data-name="Grupo 2850-2">
+            <rect id="Rectángulo_2970-2" data-name="Rectángulo 2970-2" x="53.14" y="2.38" width="12.69" height="14.81" transform="translate(.68 23.05) rotate(-22.06)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_2853-2" data-name="Grupo 2853-2">
+        <g class="cls-9">
+          <g id="Grupo_2852-2" data-name="Grupo 2852-2">
+            <path id="Trazado_1956-2" data-name="Trazado 1956-2" d="m82.44,6.47c-2.64,0-4.78,2.14-4.78,4.78,0,2.64,2.14,4.78,4.78,4.78,1.25,0,2.44-.48,3.34-1.35v1.35h1.45v-4.77c0-2.64-2.14-4.78-4.78-4.78m0,8.11c-1.84,0-3.33-1.49-3.33-3.33s1.49-3.33,3.33-3.33,3.33,1.49,3.33,3.33c0,1.84-1.49,3.33-3.33,3.33"/>
+            <path id="Trazado_1957-2" data-name="Trazado 1957-2" d="m95.63,10.78c.03-1.58-1.23-2.88-2.8-2.91-1.58-.03-2.88,1.23-2.91,2.8,0,.04,0,.07,0,.11v5.25h-1.45v-5.25c0-2.38,1.93-4.31,4.31-4.31,2.38,0,4.31,1.93,4.31,4.31h0v5.25h-1.45s0-5.25,0-5.25Z"/>
+            <path id="Trazado_1958-2" data-name="Trazado 1958-2" d="m74.93,10.78c.03-1.58-1.23-2.88-2.8-2.91-1.58-.03-2.88,1.23-2.91,2.8,0,.04,0,.07,0,.11v5.25h-1.45v-5.25c0-2.38,1.93-4.31,4.31-4.31,2.38,0,4.31,1.93,4.31,4.31h0v5.25h-1.45s0-5.25,0-5.25Z"/>
+            <path id="Trazado_1959-2" data-name="Trazado 1959-2" d="m66.49,16.03V6.76h-1.45v9.27h1.45Z"/>
+            <path id="Trazado_1960-2" data-name="Trazado 1960-2" d="m106.98,14.6c-.26-.4-.48-.82-.65-1.27l-1.79.9c-1.65.82-3.64.15-4.46-1.5s-.15-3.64,1.5-4.46c1.51-.75,3.34-.25,4.27,1.16.16-.52.38-1.02.66-1.49-1.83-1.91-4.85-1.97-6.76-.15-1.91,1.83-1.97,4.85-.15,6.76,1.46,1.52,3.74,1.91,5.62.95h0l1.74-.91Z"/>
+            <path id="Trazado_1961-2" data-name="Trazado 1961-2" d="m116.72,11.25c0-2.65-2.13-4.8-4.78-4.8s-4.8,2.13-4.8,4.78c0,2.65,2.13,4.8,4.78,4.8,1.25,0,2.46-.48,3.36-1.36l-1.03-1.03c-1.32,1.27-3.43,1.23-4.7-.1-1.27-1.32-1.23-3.43.1-4.7,1.32-1.27,3.43-1.23,4.7.1.44.46.74,1.03.86,1.65h-5.08c-.08.21-.12.43-.11.65-.01.22.03.45.11.65h6.56c.03-.22.05-.44.05-.65"/>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_2855-2" data-name="Grupo 2855-2">
+        <g class="cls-3">
+          <g id="Grupo_2854-2" data-name="Grupo 2854-2">
+            <rect id="Rectángulo_2972-2" data-name="Rectángulo 2972-2" class="cls-1" x=".22" y="1.41" width="21.2" height="20.56" transform="translate(-4.34 6.8) rotate(-29.33)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

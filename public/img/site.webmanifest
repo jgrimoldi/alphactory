@@ -1,0 +1,70 @@
+{
+    "id": "/",
+    "name": "Alphactory",
+    "short_name": "Alphactory",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#603cba",
+    "description": "Alphactory is a leading digital solutions company in the field of asset management, capital markets and real-time accounting. It offers innovative asset management, the best way to invest.",
+    "icons": [
+      {
+        "src": "/img/Logo.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "/img/favicon.ico",
+        "sizes": "48x48",
+        "type": "image/x-icon"
+      },
+      {
+        "src": "/img/favicon-32x32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "/img/favicon-16x16.png",
+        "sizes": "16x16",
+        "type": "image/png"
+      },
+      {
+        "src": "/img/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/img/apple-touch-icon-180x180.png",
+        "sizes": "180x180",
+        "type": "image/png"
+      },
+      {
+        "src": "/img/mstile-144x144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }
+    ],
+    "display_override": ["window-controls-overlay"],
+    "protocol_handlers": [
+      {
+        "protocol": "web+alphactory",
+        "url": "/protocol-handler?uri=%s"
+      }
+    ],
+    "categories": ["finance"],
+    "screenshots": [
+      {
+        "src": "/img/screenDesktop.png",
+        "sizes": "1025x865",
+        "type": "image/png",
+        "form_factor": "wide"
+      },
+      {
+        "src": "/img/screenMobile.png",
+        "sizes": "330x697",
+        "type": "image/png"
+      }
+    ],
+    "form_factor": "wide"
+  }
+  
