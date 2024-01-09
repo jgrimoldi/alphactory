@@ -34,7 +34,7 @@ function RightDash () {
       <div className='flex flex-1 min-[421px]:flex-nowrap flex-wrap justify-between gap-5'>
         <div className='min-[421px]:w-1/2 w-full flex flex-col gap-2.5'>
           <Card alt='Alphinance' src={ImagoTypeAlphinance} width={174} height={33} />
-          <Card alt='Py' src={ImagoTypePy} width={77} height={33} />
+          <Card alt='Py' src={ImagoTypePy} width={174} height={33} />
           <CardXL title='+50' subtitle={t('alphactory.instruments')} icon={PurpleInvestments}>
             {t('alphactory.instrumentsText')}
           </CardXL>

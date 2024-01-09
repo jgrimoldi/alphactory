@@ -5,7 +5,6 @@ export default function Py () {
     <>
       <Helmet>
         <title>Alphactory | Py</title>
-        <link rel='canonical' href={window.location.href} />
         <meta property='og:title' content='Py' />
         <meta property='og:description' content='' />
         <meta property='og:image' content='/Logo.png' />
@@ -14,7 +13,7 @@ export default function Py () {
         <meta name='twitter:description' content='' />
         <meta name='twitter:image' content='/Logo.png' />
       </Helmet>
-      <main>
+      <main className='relative -z-20'>
         Py
       </main>
     </>

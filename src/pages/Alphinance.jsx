@@ -23,7 +23,6 @@ export default function Alphinance () {
     <>
       <Helmet>
         <title>Alphactory | Alphinance</title>
-        <link rel='canonical' href={window.location.href} />
         <meta property='og:title' content='Alphinance' />
         <meta property='og:description' content='"Our organization was created with the mission of facilitating daily tasks in the corporate world. By automating operational tasks and seeking maximum efficiency by combining the accounting, administrative and financial sectors of the entities.' />
         <meta property='og:image' content='/Logo.png' />
@@ -32,7 +31,7 @@ export default function Alphinance () {
         <meta name='twitter:description' content='"Our organization was created with the mission of facilitating daily tasks in the corporate world. By automating operational tasks and seeking maximum efficiency by combining the accounting, administrative and financial sectors of the entities.' />
         <meta name='twitter:image' content='/Logo.png' />
       </Helmet>
-      <main>
+      <main className='relative -z-20'>
         <Container styles='flex lg:flex-row flex-col gap-5 justify-evenly items-center pt-9'>
           <div className='lg:w-2/5 w-full flex lg:justify-end justify-center'>
             <Header variant='blackText' className='2xl:!px-0 md:!px-0 !px-0  flex flex-col justify-center sm:items-start sm:gap-12 gap-6  lg:!max-w-[398px] !max-w-[600px] lg:text-left text-center'>
